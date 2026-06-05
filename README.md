@@ -34,7 +34,7 @@ I'm a final-year Computer Science student at **SMIU Karachi** who loves turning 
 
 I scored in the **92.2 percentile (Top ~8% nationally)** in the HEC National Computing Skills Test, and completed a **6-month internship** at SALUQ Enterprises where I contributed to real-world software projects in a professional team environment.
 
-Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakistani tech company.
+Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakistani tech company (Arbisoft, 10Pearls, Nextbridge, etc.)
 
 ---
 
@@ -102,7 +102,7 @@ Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakis
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [ShopHub — Multi-Vendor E-Commerce](https://multivendor-ecommerce-seven.vercel.app/)
+### 🛒 [ShopHub — Multi-Vendor E-Commerce](https://shophub-store-pk.vercel.app/)
 
 **Next.js 16 · TypeScript · PostgreSQL · Stripe · NextAuth v5**
 
@@ -113,8 +113,8 @@ Full-stack multi-vendor marketplace with separate portals for customers, vendors
 - 🔐 Google OAuth + JWT + Next.js middleware
 - 🎟️ Coupon system, wishlists, real-time notifications
 
-[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://multivendor-ecommerce-seven.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moizmalik13588/multivendor-ecommerce)
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://shophub-store-pk.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moizmalik13588/ShopHub)
 
 </td>
 <td width="50%" valign="top">
