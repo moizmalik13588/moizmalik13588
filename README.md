@@ -34,7 +34,7 @@ I'm a final-year Computer Science student at **SMIU Karachi** who loves turning 
 
 I scored in the **92.2 percentile (Top ~8% nationally)** in the HEC National Computing Skills Test, and completed a **6-month internship** at SALUQ Enterprises where I contributed to real-world software projects in a professional team environment.
 
-Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakistani tech company (Arbisoft, 10Pearls, Nextbridge, etc.)
+Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakistani tech company.
 
 ---
 
