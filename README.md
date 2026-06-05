@@ -4,15 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1a56a0&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Apps+%F0%9F%9A%80;Node.js+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;AI+Integration+%7C+System+Design;92.2+Percentile+%E2%80%94+HEC+NCST+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1a56a0&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Moiz+%F0%9F%91%8B;Full-Stack+Developer+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0;Building+Production-Grade+Apps+%F0%9F%9A%80;Node.js+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;AI+Integration+%7C+System+Design;92.2+Percentile+%E2%80%94+HEC+NCST+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muhammad-moiz-7a0601287/">
+<a href="https://www.linkedin.com/in/muhammad-moiz-0a0995301/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:moizmalik13588@gmail.com">
+<a href="mailto:moizm12348@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -26,14 +26,26 @@
 
 ---
 
+## 🙋‍♂️ Introduction
+
+Hi! I'm **Muhammad Moiz**, a passionate **Full-Stack & Backend Developer** from Karachi, Pakistan 🇵🇰
+
+I'm a final-year Computer Science student at **SMIU Karachi** who loves turning ideas into real, production-ready applications. I don't just build projects — I **deploy them** with real domains, SSL certificates, and actual users. From AI-powered voice agents handling live patient calls to multi-vendor e-commerce platforms with Pakistani payment gateways — I build things that **actually work in the real world**.
+
+I scored in the **92.2 percentile (Top ~8% nationally)** in the HEC National Computing Skills Test, and completed a **6-month internship** at SALUQ Enterprises where I contributed to real-world software projects in a professional team environment.
+
+Currently seeking a **Full-Stack or Backend Developer role** at a top-tier Pakistani tech company (Arbisoft, 10Pearls, Nextbridge, etc.)
+
+---
+
 ## 👨‍💻 About Me
 
-- 🎓 **Final-year BSCS student** at SMIU Karachi (2026) — CGPA: **3.3 / 4.0**
-- 🏆 **92.2 Percentile** in HEC National Computing Skills Test — Top ~8% nationally
+- 🎓 **B.S. Computer Science** — SMIU Karachi (Final Year, 2026) | CGPA: **3.3 / 4.0**
+- 🏆 **92.2 Percentile** in HEC NCST — Top ~8% nationally (DSA, Networks, SE, Databases)
 - 💼 **6-Month Internship** @ SALUQ Enterprises, Karachi (Software Advancement Dept.)
-- 🚀 I build **production-grade apps** with real domains, SSL, live users & cloud deployments
-- 🤖 Passionate about **AI integration**, scalable backend architecture & clean API design
-- 🎯 Actively seeking **Full-Stack / Backend Developer** role at a top-tier Pakistani tech company
+- 🚀 Deployed apps on **AWS EC2, Railway, Vercel** with real custom domains & SSL
+- 🤖 Built AI integrations with **VAPI, Groq LLM, Anthropic API**
+- 🎯 Actively seeking **Full-Stack / Backend Developer** role
 - 📍 Based in **Karachi, Pakistan**
 
 ---
@@ -167,13 +179,11 @@ Production job board with AI resume reviewer & JD generator.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moizmalik13588&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&icon_color=0ea5e9&text_color=c9d1d9&count_private=true" height="170" onerror="this.style.display='none'"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizmalik13588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizmalik13588&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1a56a0&line=0ea5e9&point=ffffff&area=true&area_color=1a56a0" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=moizmalik13588&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a56a0&ring=1a56a0&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=moizmalik13588&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a56a0&ring=1a56a0&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=888888" width="55%"/>
 
 </div>
 
@@ -202,11 +212,11 @@ I'm actively looking for **Full-Stack / Backend Developer** roles at top Pakista
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muhammad-moiz-7a0601287/">
+<a href="https://www.linkedin.com/in/muhammad-moiz-0a0995301/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:moizmalik13588@gmail.com">
+<a href="mailto:moizm12348@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
