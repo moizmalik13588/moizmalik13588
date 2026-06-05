@@ -28,18 +28,13 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const moiz = {
-  location:     "Karachi, Pakistan 🇵🇰",
-  education:    "B.S. Computer Science — SMIU (Final Year, 2026)",
-  cgpa:         "3.3 / 4.0",
-  achievement:  "92.2 Percentile — HEC National Computing Skills Test (Top ~8% Nationally)",
-  experience:   "6-Month Internship @ SALUQ Enterprises (Software Advancement Dept.)",
-  seeking:      "Full-Stack / Backend Developer role at a top-tier tech company",
-  currentFocus: ["Scalable Backend Architecture", "AI Integration", "System Design"],
-  funFact:      "I ship production apps with real domains, SSL, and live users 🚀",
-};
-```
+- 🎓 **Final-year BSCS student** at SMIU Karachi (2026) — CGPA: **3.3 / 4.0**
+- 🏆 **92.2 Percentile** in HEC National Computing Skills Test — Top ~8% nationally
+- 💼 **6-Month Internship** @ SALUQ Enterprises, Karachi (Software Advancement Dept.)
+- 🚀 I build **production-grade apps** with real domains, SSL, live users & cloud deployments
+- 🤖 Passionate about **AI integration**, scalable backend architecture & clean API design
+- 🎯 Actively seeking **Full-Stack / Backend Developer** role at a top-tier Pakistani tech company
+- 📍 Based in **Karachi, Pakistan**
 
 ---
 
@@ -80,7 +75,7 @@ const moiz = {
 
 **AI & APIs**
 
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_SDK-F54B27?style=for-the-badge&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -172,13 +167,13 @@ Production job board with AI resume reviewer & JD generator.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moizmalik13588&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&icon_color=0ea5e9&text_color=c9d1d9&ring_color=1a56a0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moizmalik13588&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&icon_color=0ea5e9&text_color=c9d1d9&count_private=true" height="170" onerror="this.style.display='none'"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizmalik13588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizmalik13588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56a0&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moizmalik13588&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a56a0&ring=1a56a0&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=moizmalik13588&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a56a0&ring=1a56a0&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=888888" width="60%"/>
 
 </div>
 
