@@ -175,20 +175,6 @@ Production job board with AI resume reviewer & JD generator.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizmalik13588&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1a56a0&line=0ea5e9&point=ffffff&area=true&area_color=1a56a0" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=moizmalik13588&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a56a0&ring=1a56a0&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=888888" width="55%"/>
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
